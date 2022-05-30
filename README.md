@@ -1,9 +1,10 @@
-### Hi there 👋
+### Olá, Bem-vindo(a) 👋
+### Eu sou a Nayara de Lima Ramos ✨
 
-- 🌱 Estudando React
+- 🌱 Estudando Front-End
+- 💻 Outras tecnologias: React, JavaSricpt, CSS, HTML, SQL
 - 📫 Contate-me no e-mail: nayara.l.r@hotmail.com
-- ⚡ Fun fact: ...
--->
+
 <div align="center">
   <a href="https://github.com/Nayaralimar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayaralimar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
