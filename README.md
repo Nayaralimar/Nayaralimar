@@ -2,7 +2,7 @@
 ### Eu sou a Nayara de Lima Ramos ✨
 
 - 🌱 Estudando Front-End
-- 💻 Outras tecnologias: React, JavaSricpt, CSS, HTML, SQL
+- 💻 Tecnologias: React, JavaSricpt, CSS, HTML, SQL
 - 📫 Contate-me no e-mail: nayara.l.r@hotmail.com
 
 <div align="center">
@@ -13,8 +13,8 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Nay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nay-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  /*<img align="center" alt="Nay-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">*/
   <img align="center" alt="Nay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
