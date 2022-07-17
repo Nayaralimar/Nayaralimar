@@ -3,11 +3,11 @@
 
 - 🌱 Estudando Front-End
 - 📍 Brazil - São Paulo
-- 💻 Tecnologias: 
-° React, 
-° JavaSricpt, 
-° CSS, 
-° HTML, 
+- 💻 Tecnologias:</br>
+° React, </br>
+° JavaSricpt, </br>
+° CSS, </br>
+° HTML, </br>
 ° SQL.
 - 📫 Contate-me no e-mail: nayara.l.r@hotmail.com
 
