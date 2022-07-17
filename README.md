@@ -2,7 +2,13 @@
 ### Eu sou a Nayara de Lima Ramos ✨
 
 - 🌱 Estudando Front-End
-- 💻 Tecnologias: React, JavaSricpt, CSS, HTML, SQL
+- 📍 Brazil - São Paulo
+- 💻 Tecnologias: 
+° React, 
+° JavaSricpt, 
+° CSS, 
+° HTML, 
+° SQL.
 - 📫 Contate-me no e-mail: nayara.l.r@hotmail.com
 
 <div align="center">
