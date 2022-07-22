@@ -1,5 +1,5 @@
 ### Olá, Bem-vindo(a) 👋
-### Eu sou a Nayara de Lima Ramos ✨
+### Eu sou a, Nayara de Lima Ramos ✨
 
 - 🌱 Estudando Front-End
 - 📍 Brazil - São Paulo
