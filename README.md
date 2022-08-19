@@ -1,11 +1,13 @@
 ### Olá, Bem-vindo(a) 👋
 ### Eu sou a, Nayara de Lima Ramos ✨
 
-- 🌱 Desenvolvedora Full Stack
+- 🌱 Desenvolvedora Full-stack
 - 📍 Brazil - São Paulo
 - 💻 Tecnologias:</br>
 ° React, </br>
 ° JavaSricpt, </br>
+° Node.js, </br>
+° Git, </br>
 ° CSS, </br>
 ° HTML, </br>
 ° SQL.
