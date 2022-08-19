@@ -1,7 +1,7 @@
 ### Olá, Bem-vindo(a) 👋
 ### Eu sou a, Nayara de Lima Ramos ✨
 
-- 🌱 Estudando Front-End
+- 🌱 Desenvolvedora Full Stack
 - 📍 Brazil - São Paulo
 - 💻 Tecnologias:</br>
 ° React, </br>
