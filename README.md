@@ -28,9 +28,8 @@
    
  </div>
  
-    ##
  
 <div> 
-   <a href="https://www.linkedin.com/in/nayara-lima-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/nayara-lima-ramos/" target="_blank"><img height="180em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
