@@ -1,8 +1,8 @@
 ### Hello World!
 ### Bem-vindo(a) 👋
-### Eu sou a, Nayara de Lima Ramos ✨
+## Eu sou a, Nayara de Lima Ramos ✨
 
-- 🌱 Desenvolvedora Full-stack
+- ✨ Desenvolvedora Full-stack
 - 📍 Brazil - São Paulo
 - 💻 Tecnologias:</br>
 ° React, </br>
