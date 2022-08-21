@@ -11,7 +11,7 @@
 ° Git, </br>
 ° CSS, </br>
 ° HTML, </br>
-° SQL.
+° MySQL.
 - 📫 Contate-me no e-mail: nayara.l.r@hotmail.com
 
 <div align="center">
@@ -21,16 +21,17 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Nay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nay-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Nay-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Nay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
+  <img align="center" alt="Nay-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  </div>
  
   </br>
  
 <div> 
-   <a href="https://www.linkedin.com/in/nayara-lima-ramos/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   <a href="https://www.linkedin.com/in/nayara-lima-ramos/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
